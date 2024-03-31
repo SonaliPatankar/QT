@@ -1,6 +1,6 @@
 
 # Implementation using QT:
-Render any Solid with help of QT and OpenGL
+This project utilizes QT Creator and OpenGL to render 3D solids. It provides functionalities for reading triangulation data from STL files, managing solid geometry, and rendering the solid in a graphical window.
 
 # File Structure
 ## Point3D.h/cpp: Defines a 3D point class with x, y, and z coordinates.
